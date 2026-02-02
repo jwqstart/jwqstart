@@ -1,4 +1,4 @@
-## 你好👋
+## 你好👋!欢迎使用jwq的github库。😘
 
 <!--
 **jwqstart/jwqstart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JWQSTART)](https://github.com/anuraghazra/github-readme-stats)
+1.哔哩哔哩
